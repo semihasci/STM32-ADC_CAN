@@ -7,4 +7,4 @@ While using can bus, filtering was done using the masking method.
 <img src= "https://github.com/semihasci/STM32-ADC_CAN_Com/blob/main/image.JPG" width="40%" height="40%">
 
 <div>
-This image include CAN settings.
+This image contains the CAN parameter settings.
